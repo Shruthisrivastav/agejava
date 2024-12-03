@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AgeCalculator {
+public class Age{
     public static void main(String[] args) {
         // Create a Scanner object for user input
         Scanner scanner = new Scanner(System.in);
